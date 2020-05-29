@@ -15,12 +15,15 @@ To building an ETL-Pipeline with Spark I loaded a World development indicator  d
 
 # Parquet data glimse
 - main result folder
-![main](img/main.PNG)
+   
+   ![main](img/main.PNG)
 
 - parquet files 
-![1](img/countryparquet1.PNG)
+   
+   ![1](img/countryparquet1.PNG)
 
-![2](img/countryparquet2.PNG)
+   
+   ![2](img/countryparquet2.PNG)
 
 # Dataset
 
